@@ -46,8 +46,8 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <!--
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.otada.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.otada.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/otada/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-otada%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
